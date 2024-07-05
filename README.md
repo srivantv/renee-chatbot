@@ -1,5 +1,7 @@
 # Renee Medical Chatbot
 
+Note that running it for the first time might take some time.
+
 [Click to see deployed version](https://renee-chatbot-flax.vercel.app)
 
 
